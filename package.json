@@ -1,0 +1,7 @@
+{
+  "name": "gek-cbt-ai-online",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Online GEK CBT with server-side AI grading for matching, fill-in-the-blank and short-note answers"
+}
